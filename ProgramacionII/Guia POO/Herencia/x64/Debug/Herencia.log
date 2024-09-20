@@ -1,0 +1,19 @@
+﻿  Herencia.cpp
+C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(18,20): error C2661: 'Martillo::Martillo': ninguna función sobrecargada acepta 3 argumentos
+  C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(18,20):
+  al hacer coincidir la lista de argumentos '(const char [6], int, int)'
+  
+C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(23,32): error C2661: 'Destornillador::Destornillador': ninguna función sobrecargada acepta 3 argumentos
+  C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(23,32):
+  al hacer coincidir la lista de argumentos '(const char [6], double, int)'
+  
+C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(27,18): error C2661: 'Taladro::Taladro': ninguna función sobrecargada acepta 3 argumentos
+  C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(27,18):
+  al hacer coincidir la lista de argumentos '(int, int, int)'
+  
+C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(33,27): error C2661: 'TaladroPercutor::TaladroPercutor': ninguna función sobrecargada acepta 4 argumentos
+  C:\Users\Braian\source\repos\Programacion II\Guia POO\Herencia\Herencia.cpp(33,27):
+  al hacer coincidir la lista de argumentos '(int, double, int, int)'
+  
+  Martillo.cpp
+  Generando código...

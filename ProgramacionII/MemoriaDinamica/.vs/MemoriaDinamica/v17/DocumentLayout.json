@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Braian\\source\\repos\\Programacion II\\MemoriaDinamica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3059EF0D-AD28-4735-A4F4-EB8939BDDB49}|MemoriaDinamica\\MemoriaDinamica.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\MemoriaDinamica\\MemoriaDinamica\\MemoriaDinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3059EF0D-AD28-4735-A4F4-EB8939BDDB49}|MemoriaDinamica\\MemoriaDinamica.vcxproj|solutionrelative:MemoriaDinamica\\MemoriaDinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoriaDinamica.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\MemoriaDinamica\\MemoriaDinamica\\MemoriaDinamica.cpp",
+              "RelativeDocumentMoniker": "MemoriaDinamica\\MemoriaDinamica.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\MemoriaDinamica\\MemoriaDinamica\\MemoriaDinamica.cpp*",
+              "RelativeToolTip": "MemoriaDinamica\\MemoriaDinamica.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T00:32:30.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

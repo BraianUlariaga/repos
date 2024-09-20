@@ -1,0 +1,3 @@
+﻿  Ejercicio 3.cpp
+C:\Users\Braian\source\repos\Programacion II\Guia POO\Ejercicio 3\Ejercicio 3.cpp(65,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ejercicio 3.vcxproj -> C:\Users\Braian\source\repos\Programacion II\Guia POO\x64\Debug\Ejercicio 3.exe
