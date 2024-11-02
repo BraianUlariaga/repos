@@ -1,0 +1,3 @@
+﻿  Examen.cpp
+C:\Users\Braian\source\repos\ProgramacionII\Guia POO\ModeloExamen\Examen.cpp(53,9): warning C4101: 'idPlato': variable local sin referencia
+  ModeloExamen.vcxproj -> C:\Users\Braian\source\repos\ProgramacionII\Guia POO\x64\Debug\ModeloExamen.exe

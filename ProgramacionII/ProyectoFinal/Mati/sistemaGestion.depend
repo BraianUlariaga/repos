@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1730414132 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\main.cpp
+	<iostream>
+	"sistemaGestion.h"
+
+1730414132 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\sistemagestion.cpp
+	<iostream>
+	"sistemaGestion.h"
+
+1730405032 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\sistemagestion.h
+	"archivoAutos.h"
+	"clienteArchivo.h"
+	"facturaArchivo.h"
+	"vendedoresArchivo.h"
+
+1730328021 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\archivoautos.h
+	"clsauto.h"
+
+1729439226 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsauto.h
+
+1730414132 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\archivoautos.cpp
+	<iostream>
+	<cstring>
+	"archivoAutos.h"
+
+1729909007 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\cabecerafactura.cpp
+	<iostream>
+	"CabeceraFactura.h"
+
+1729905592 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\cabecerafactura.h
+	"clsFecha.h"
+
+1727210269 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsfecha.h
+	<string>
+
+1729478641 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsauto.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"clsauto.h"
+
+1727210270 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsfecha.cpp
+	"clsfecha.h"
+	<iostream>
+
+1729687784 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clspersona.cpp
+	<iostream>
+	<cstring>
+	"clsPersona.h"
+
+1729687644 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clspersona.h
+	"clsfecha.h"
+
+1728788567 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsvendedor.cpp
+	<iostream>
+	"clsvendedor.h"
+
+1728781110 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clsvendedor.h
+	"clsPersona.h"
+
+1729995763 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\detallefactura.cpp
+	<iostream>
+	"DetalleFactura.h"
+	<cstring>
+
+1729995141 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\detallefactura.h
+	<iostream>
+	<string>
+	"cabeceraFactura.h"
+
+1729999427 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\facturaarchivo.cpp
+	"facturaArchivo.h"
+
+1729999508 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\facturaarchivo.h
+	"detalleFactura.h"
+
+1729790493 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\vendedoresarchivo.cpp
+	<iostream>
+	<cstring>
+	"vendedoresArchivo.h"
+
+1729790870 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\vendedoresarchivo.h
+	"clsvendedor.h"
+
+1730171031 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\cliente.cpp
+	<iostream>
+	"cliente.h"
+
+1730171007 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\cliente.h
+	"clsPersona.h"
+
+1730295845 source:c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clientearchivo.cpp
+	"clienteArchivo.h"
+
+1730399800 c:\users\matib\onedrive\escritorio\proyecto concesionaria\sistemagestion\clientearchivo.h
+	"cliente.h"
+
+1730414132 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\archivoautos.cpp
+	<iostream>
+	<cstring>
+	"archivoAutos.h"
+
+1730328021 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\archivoautos.h
+	"clsauto.h"
+
+1729439226 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsauto.h
+
+1729909007 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\cabecerafactura.cpp
+	<iostream>
+	"CabeceraFactura.h"
+
+1729905592 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\cabecerafactura.h
+	"clsFecha.h"
+
+1727210269 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsfecha.h
+	<string>
+
+1730171031 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\cliente.cpp
+	<iostream>
+	"cliente.h"
+
+1730171007 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\cliente.h
+	"clsPersona.h"
+
+1729687644 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clspersona.h
+	"clsfecha.h"
+
+1730295845 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clientearchivo.cpp
+	"clienteArchivo.h"
+
+1730399800 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clientearchivo.h
+	"cliente.h"
+
+1729478641 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsauto.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"clsauto.h"
+
+1727210270 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsfecha.cpp
+	"clsfecha.h"
+	<iostream>
+
+1730414252 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clspersona.cpp
+	<iostream>
+	<cstring>
+	"clsPersona.h"
+
+1728788567 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsvendedor.cpp
+	<iostream>
+	"clsvendedor.h"
+
+1728781110 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\clsvendedor.h
+	"clsPersona.h"
+
+1729995763 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\detallefactura.cpp
+	<iostream>
+	"DetalleFactura.h"
+	<cstring>
+
+1729995141 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\detallefactura.h
+	<iostream>
+	<string>
+	"cabeceraFactura.h"
+
+1729999427 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\facturaarchivo.cpp
+	"facturaArchivo.h"
+
+1729999508 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\facturaarchivo.h
+	"detalleFactura.h"
+
+1730414132 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\main.cpp
+	<iostream>
+	"sistemaGestion.h"
+
+1730405032 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\sistemagestion.h
+	"archivoAutos.h"
+	"clienteArchivo.h"
+	"facturaArchivo.h"
+	"vendedoresArchivo.h"
+
+1729790870 c:\users\braian\downloads\proyecto concesionaria\sistemagestion\vendedoresarchivo.h
+	"clsvendedor.h"
+
+1730414132 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\sistemagestion.cpp
+	<iostream>
+	"sistemaGestion.h"
+
+1729790493 source:c:\users\braian\downloads\proyecto concesionaria\sistemagestion\vendedoresarchivo.cpp
+	<iostream>
+	<cstring>
+	"vendedoresArchivo.h"
+

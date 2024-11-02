@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ArchivoServicioMesa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\ArchivoServicioMesa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\ServicioMesa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Fecha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\Fecha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\Examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\ServicioMesa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21DAAD42-F891-450D-B0AF-E2DF5CCE38A8}|Main\\Main.vcxproj|solutionrelative:Main\\Examen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivoServicioMesa.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ArchivoServicioMesa.cpp",
+              "RelativeDocumentMoniker": "Main\\ArchivoServicioMesa.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ArchivoServicioMesa.cpp",
+              "RelativeToolTip": "Main\\ArchivoServicioMesa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T18:52:35.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioMesa.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.cpp",
+              "RelativeDocumentMoniker": "Main\\ServicioMesa.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.cpp",
+              "RelativeToolTip": "Main\\ServicioMesa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T22:19:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fecha.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Fecha.cpp",
+              "RelativeDocumentMoniker": "Main\\Fecha.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Fecha.cpp",
+              "RelativeToolTip": "Main\\Fecha.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T22:18:50.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Examen.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.cpp",
+              "RelativeDocumentMoniker": "Main\\Examen.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.cpp*",
+              "RelativeToolTip": "Main\\Examen.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T22:18:11.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Main.cpp",
+              "RelativeDocumentMoniker": "Main\\Main.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Main.cpp",
+              "RelativeToolTip": "Main\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T22:13:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicioMesa.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.h",
+              "RelativeDocumentMoniker": "Main\\ServicioMesa.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\ServicioMesa.h",
+              "RelativeToolTip": "Main\\ServicioMesa.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-19T18:52:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Examen.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.h",
+              "RelativeDocumentMoniker": "Main\\Examen.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\Programacion II\\Main\\Main\\Examen.h",
+              "RelativeToolTip": "Main\\Examen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-30T22:15:27.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

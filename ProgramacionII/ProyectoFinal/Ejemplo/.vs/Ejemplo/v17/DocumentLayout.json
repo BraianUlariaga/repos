@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\detalleFactura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\detalleFactura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsPersona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\clsPersona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsauto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\clsauto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\ArchivoAutos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\ArchivoAutos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clienteArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0403FCC6-D6E7-4EBE-A69A-1EA7BF3AF338}|Ejemplo\\Ejemplo.vcxproj|solutionrelative:Ejemplo\\clienteArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "detalleFactura.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\detalleFactura.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\detalleFactura.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\detalleFactura.cpp",
+              "RelativeToolTip": "Ejemplo\\detalleFactura.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T00:02:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPersona.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsPersona.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\clsPersona.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsPersona.cpp",
+              "RelativeToolTip": "Ejemplo\\clsPersona.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T00:02:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsauto.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsauto.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\clsauto.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clsauto.cpp",
+              "RelativeToolTip": "Ejemplo\\clsauto.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T00:01:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clienteArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clienteArchivo.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\clienteArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\clienteArchivo.cpp",
+              "RelativeToolTip": "Ejemplo\\clienteArchivo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T00:00:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArchivoAutos.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\ArchivoAutos.cpp",
+              "RelativeDocumentMoniker": "Ejemplo\\ArchivoAutos.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\Ejemplo\\Ejemplo\\ArchivoAutos.cpp",
+              "RelativeToolTip": "Ejemplo\\ArchivoAutos.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T23:59:50.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

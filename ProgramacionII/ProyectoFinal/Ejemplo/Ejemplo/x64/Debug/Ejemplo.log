@@ -1,0 +1,14 @@
+﻿  main.cpp
+  ArchivoAutos.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\Ejemplo\Ejemplo\ArchivoAutos.cpp(7,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  cabeceraFactura.cpp
+  cliente.cpp
+  clienteArchivo.cpp
+  clsauto.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\Ejemplo\Ejemplo\clsauto.cpp(125,15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  clsfecha.cpp
+  clsPersona.cpp
+  clsvendedor.cpp
+  detalleFactura.cpp
+  Generando código...
+  Ejemplo.vcxproj -> C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\Ejemplo\x64\Debug\Ejemplo.exe
