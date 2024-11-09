@@ -14,35 +14,29 @@ persona::persona(){
 }
 //setters
 void persona::setnombre(std::string nombre){
-    if(nombre.size() <= 10){
-        strcpy(_nombre, nombre.c_str());
-    }
+    strcpy(_nombre, nombre.c_str());
 }
+
 void persona::setapellido(std::string apellido){
-    if(apellido.size() <= 99){
-        strcpy(_apellido, apellido.c_str());
-    }
+    strcpy(_apellido, apellido.c_str());
 }
+
 void persona::setdni(int dni){
-    if(dni > 0){
-        _dni = dni;
-    }
+    _dni = dni;
 }
+
 void persona::setnacimiento(fecha nacimiento){
     _nacimiento = nacimiento;
 }
+
 void persona::settelefono(std::string telefono){
-    if(telefono.size() <= 12){
-        strcpy(_telefono, telefono.c_str());
-    }
+    strcpy(_telefono, telefono.c_str());
 }
+
 void persona::setemail(std::string email){
-    if(email.size() <= 99){
-        if(email.find('@') != std::string::npos && email.find('.') != std::string::npos){ //la funcion find() lo que hace es buscar el caracter que se le indica buscar
-            strcpy(_email, email.c_str());                                                              //y siempre se compara con "npos" que es un valor especial que indica "que no se encontro el caracter buscado".
-        }
+        strcpy(_email, email.c_str());
     }
-}
+
 //getters
 const char* persona::getnombre()const{
     return _nombre;
@@ -63,36 +57,76 @@ const char* persona::getemail()const{
     return _email;
 }
 //metodos
-void persona::Cargar(){
+
+void persona::Cargar() {
     std::string nombre, apellido, telefono, email;
     int dni;
     fecha nacimiento;
 
-    std::cout<< "NOMBRE: ";
-    getline(std::cin, nombre);
-    setnombre(nombre);
+    do {
+        std::cout << "NOMBRE: ";
+        getline(std::cin, nombre);
+        if (nombre.size() <= 99) {
+            setnombre(nombre);
+            break;
+        } else {
+            std::cout << "El nombre es demasiado largo. Intente nuevamente." <<std::endl;
+        }
+    } while (true);
 
-    std::cout<< "APELLIDO: ";
-    getline(std::cin, apellido);
-    setapellido(apellido);
+    do {
+        std::cout << "APELLIDO: ";
+        getline(std::cin, apellido);
+        if (apellido.size() <= 99) {
+            setapellido(apellido);
+            break;
+        } else {
+            std::cout << "El apellido es demasiado largo. Intente nuevamente. " <<std::endl;
+        }
+    } while (true);
 
-    std::cout<< "DNI: ";
-    std::cin>> dni;
-    setdni(dni);
+    do {
+        std::cout << "DNI: ";
+        std::cin >> dni;
+        if (dni > 0) {
+            setdni(dni);
+            break;
+        } else {
+            std::cout << "DNI invalido. Debe ser un numero positivo. Intente nuevamente." <<std::endl;
+        }
+    } while (true);
 
-    std::cout<< "FECHA DE NACIMIENTO: ";
+    std::cout << "FECHA DE NACIMIENTO: ";
     nacimiento.Cargar();
     setnacimiento(nacimiento);
     std::cin.ignore();
 
-    std::cout<< "TELEFONO: ";
-    getline(std::cin, telefono);
-    settelefono(telefono);
+    do {
+        std::cout << "TELEFONO: ";
+        getline(std::cin, telefono);
+        if (telefono.size() <= 12) {
+            settelefono(telefono);
+            break;
+        } else {
+            std::cout << "El telefono es demasiado largo. Intente nuevamente." <<std::endl;
+        }
+    } while (true);
 
-    std::cout<< "EMAIL: ";
-    getline(std::cin, email);
-    setemail(email);
+    do {
+        std::cout << "EMAIL: ";
+        getline(std::cin, email);
+        if (email.size() <= 99 && email.find('@') != std::string::npos && email.find('.') != std::string::npos) {
+            setemail(email);
+            break;
+        } else {
+            std::cout << "Email invalido. Debe contener '@' y '.'. Intente nuevamente. " <<std::endl;
+        }
+    } while (true);
+    //la funcion find() lo que hace es buscar el caracter que se le indica buscar
+    //y siempre se compara con "npos" que es un valor especial que indica "que no se encontro el caracter buscado".
 }
+
+
 void persona::Mostrar()const{
     std::cout<< "NOMBRE: " << getnombre() <<std::endl;
     std::cout<< "APELLIDO: " << getapellido() <<std::endl;
@@ -100,6 +134,5 @@ void persona::Mostrar()const{
     std::cout<< "FECHA DE NACIMIENTO: " << getnacimiento().toString() <<std::endl;
     std::cout<< "TELEFONO: " << gettelefono() <<std::endl;
     std::cout<< "EMAIL: " << getemail() <<std::endl;
-    std::cout<< "-------------------------------" << std::endl;
 }
 

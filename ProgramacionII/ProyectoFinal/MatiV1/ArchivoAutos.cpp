@@ -27,13 +27,14 @@ bool ArchivoAutos::agregarRegistro(automovil &vehiculo){
         return false;
     }
 
+    vehiculo.cargar();
+
     resultado = fwrite(&vehiculo, sizeof(automovil), 1, pFILE) == 1;
 
     fclose(pFILE);
 
     return resultado;
 }
-
 automovil ArchivoAutos::listar(int pos){
     FILE *pFILE;
     automovil vehiculo;
@@ -84,6 +85,7 @@ bool ArchivoAutos::leerRegistros(automovil registros[], int cantidad){
     fclose(pFILE);
 
     return result;
+
 
 }
 

@@ -34,6 +34,8 @@
 		</Compiler>
 		<Unit filename="ArchivoAutos.cpp" />
 		<Unit filename="archivoAutos.h" />
+		<Unit filename="cabeceraFactura.cpp" />
+		<Unit filename="cabeceraFactura.h" />
 		<Unit filename="cliente.cpp" />
 		<Unit filename="cliente.h" />
 		<Unit filename="clienteArchivo.cpp" />

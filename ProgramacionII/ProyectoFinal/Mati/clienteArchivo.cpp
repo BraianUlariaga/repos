@@ -15,8 +15,6 @@ bool clienteArchivo::agregarRegistro(cliente &registro){
         return false;
     }
 
-    registro.cargar();
-
     resultado = fwrite(&registro, sizeof(cliente), 1, pFILE) == 1;
 
     fclose(pFILE);

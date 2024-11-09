@@ -44,6 +44,11 @@ fecha::fecha(int dia, int mes, int anio){
     }
 }
 
+/*void fecha::setdia(int dia){
+    if(validarFecha(dia, _mes, _anio)){
+        _dia = dia;
+    }
+}*/
 
 void fecha::setdia(int dia){
     if(dia > 0 && dia <= 31){
@@ -87,14 +92,4 @@ void fecha::Cargar(){
         setmes(mes);
         setanio(anio);
     }
-}
-
-void fecha::fechaSistema() {
-    std::time_t t = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
-
-    std::tm* now = std::localtime(&t);
-
-    _dia = now->tm_mday;
-    _mes = now->tm_mon + 1;
-    _anio = now->tm_year + 1900;
 }

@@ -1,14 +1,10 @@
 #pragma once
 #include <iostream>
-#include "clsfecha.h"
 #include <string>
+#include "cabeceraFactura.h"
 
-class DetalleFactura{
+class DetalleFactura:public CabeceraFactura{
     private:
-        int _IDVenta;
-        int _IDCliente;
-        int _IDVendedor;
-        fecha _fecha;
         int _Subtotal;
         int _IDPago;
         int _Total;
@@ -16,22 +12,15 @@ class DetalleFactura{
 
     public:
         DetalleFactura();
+        DetalleFactura(int Subtotal, int IDPago, int Total, const char* patente);
 
     //setter
-    void setIDVenta(int IDVenta);
-    void setIDCliente(int IDCliente);
-    void setIDVendedor(int IDVendedor);
-    void setFecha(fecha fecha);
     void setSubtotal(int Subtotal);
     void setIDPago(int IDPago);
-    //void setTotal(int Total);
+    void setTotal(int Total);
     void setPatente(std::string Patente);
 
     //getter
-    int getIDVenta();
-    int getIDCliente();
-    int getIDVendedor();
-    fecha getFecha();
     int getSubtotal();
     int getIDPago();
     int getTotal();
@@ -41,6 +30,5 @@ class DetalleFactura{
     //Metodos
     void cargar();
     void mostrar();
-    void calcularTotal();
 
 };

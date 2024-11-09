@@ -4,19 +4,16 @@
 using namespace std;
 
 int main(){
-   // sistemaGestion N;
+    sistemaGestion N;
 
-  //  N.gestionarOpciones();
+    N.gestionarOpciones();
 
-  persona N;
+   /* facturaArchivo N;
+    DetalleFactura registro;
 
-  N.Cargar();
-  N.Mostrar();
-
-
-
-
-
+    registro = N.listar(2);
+    registro.mostrar();
+*/
 
     return 0;
 }

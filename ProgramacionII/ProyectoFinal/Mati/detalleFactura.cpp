@@ -3,16 +3,40 @@
 #include <cstring>
 
 // Constructor por defecto
-DetalleFactura::DetalleFactura() : _Subtotal(0), _IDPago(0), _Total(0), _Patente("S/P") {}
+DetalleFactura::DetalleFactura(){
+    _IDVenta = 0;
+    _IDCliente = 0;
+    _IDVendedor = 0;
+    _fecha.toString();
+    _Subtotal = 0;
+    _Total = 0;
+    _IDPago = 0;
+    strcpy(_Patente, "S/P");
+}
 
-// Constructor con parametros
-DetalleFactura::DetalleFactura(int Subtotal, int IDPago, int Total, const char* patente)
-    : _Subtotal(Subtotal), _IDPago(IDPago), _Total(Total)/*, _Patente(patente)*/ {
-
-    strcpy(_Patente, patente);
-    }
 
 // Setters
+void DetalleFactura::setIDVenta(int IDVenta){
+    if(IDVenta > 0){
+        _IDVenta = IDVenta;
+    }
+}
+
+void DetalleFactura::setIDCliente(int IDCliente){
+    if(IDCliente > 0){
+        _IDCliente = IDCliente;
+    }
+}
+
+void DetalleFactura::setIDVendedor(int IDVendedor){
+    if(IDVendedor > 0){
+        _IDVendedor = IDVendedor;
+    }
+}
+
+void DetalleFactura::setFecha(fecha fecha){
+    _fecha = fecha;
+}
 
 void DetalleFactura::setSubtotal(int Subtotal){
     if(Subtotal > 0){
@@ -21,16 +45,16 @@ void DetalleFactura::setSubtotal(int Subtotal){
 }
 
 void DetalleFactura::setIDPago(int IDPago){
-    if(IDPago > 0){
+    if(IDPago > 0 && IDPago <= 3){
         _IDPago = IDPago;
     }
 }
 
-void DetalleFactura::setTotal(int Total){
+/*void DetalleFactura::setTotal(int Total){
     if(Total > 0){
         _Total = Total;
     }
-}
+}*/
 
 void DetalleFactura::setPatente(std::string patente){
     if(patente.size() == 6){
@@ -48,6 +72,21 @@ void DetalleFactura::setPatente(std::string patente){
 }
 
 // Getters
+int DetalleFactura::getIDVenta(){
+    return _IDVenta;
+}
+
+int DetalleFactura::getIDCliente(){
+    return _IDCliente;
+}
+
+int DetalleFactura::getIDVendedor(){
+    return _IDVendedor;
+}
+
+fecha DetalleFactura::getFecha(){
+    return _fecha;
+}
 
 int DetalleFactura::getSubtotal() {
     return _Subtotal;
@@ -70,10 +109,26 @@ const char* DetalleFactura::getPatente(){
 
 //Metodo para cargarFactura segun archivo
 void DetalleFactura::cargar(){
-    int Subtotal, IDpago, Total;
+    int Subtotal, IDpago, Total, idvendedor, idcliente, idventa;
     std::string Patente;
+    fecha fechaFactura;
 
-    CabeceraFactura::cargar();
+    std::cout<< "idVendedor: ";
+    std::cin>> idvendedor;
+    setIDVendedor(idvendedor);
+
+    std::cout<< "idCliente: ";
+    std::cin>> idcliente;
+    setIDCliente(idcliente);
+
+    std::cout<< "idVenta: ";
+    std::cin>> idventa;
+    setIDVenta(idventa);
+
+    std::cout<<"Fecha: ";
+    fechaFactura.Cargar();
+    setFecha(fechaFactura);
+
     std::cout<< "ID pago: ";
     std::cin>> IDpago;
     setIDPago(IDpago);
@@ -87,15 +142,35 @@ void DetalleFactura::cargar(){
     std::cin>> Subtotal;
     setSubtotal(Subtotal);
 
-    std::cout<< "Total: ";
+    calcularTotal();
+
+
+
+    /*std::cout<< "Total: ";
     std::cin>> Total;
-    setTotal(Total);
+    setTotal(Total);*/
 }
 
 void DetalleFactura::mostrar() {
-    CabeceraFactura::mostrar();
+    std::cout << "id vendedor: " << getIDVendedor() <<std::endl;
+    std::cout << "id cliente: " << getIDCliente() <<std::endl;
+    std::cout << "id Venta: " << getIDVenta() <<std::endl;
+    std::cout << "fecha de facturacion: " << getFecha().toString() <<std::endl;
     std::cout << "Subtotal: " << getSubtotal() << std::endl;
     std::cout << "ID Pago: " << getIDPago() << std::endl;
     std::cout << "Total: " << getTotal() << std::endl;
     std::cout << "Patente: " << getPatente() << std::endl;
+    std::cout << "----------------------------" << std::endl << std::endl;
+}
+
+void DetalleFactura::calcularTotal(){
+        _Total = _Subtotal;
+    if(_IDPago == 2){
+        _Total = _Subtotal * 1.25;
+    }
+    else{
+        if(_IDPago == 3){
+            _Total = _Subtotal * 1.40;
+        }
+    }
 }

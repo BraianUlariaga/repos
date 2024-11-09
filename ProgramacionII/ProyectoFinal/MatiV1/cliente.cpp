@@ -1,6 +1,5 @@
 #include <iostream>
 #include "cliente.h"
-#include "clienteArchivo.h"
 
 //constructor
 cliente::cliente(){
@@ -17,26 +16,15 @@ int cliente::getidCliente(){
     return _idCliente;
 }
 //metodos
-/*void cliente::cargar(){
+void cliente::cargar(){
     int idcliente;
     persona::Cargar();
     std::cout<< "ID cliente: ";
     std::cin>> idcliente;
-    setidCliente(idcliente);
-}*/
-
-void cliente::cargar(){
-    int idcliente;
-    clienteArchivo archi;
-    persona::Cargar();
-    /*std::cout<< "ID cliente: ";
-    std::cin>> idcliente;*/
-    idcliente = archi.cantidadRegistros() + 1;
     setidCliente(idcliente);
 }
 
 void cliente::mostrar(){
     persona::Mostrar();
     std::cout<< "ID Cliente: " <<getidCliente() <<std::endl;
-    std::cout<< "-------------------------------" << std::endl << std::endl;
 }

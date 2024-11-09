@@ -2,6 +2,15 @@
 #include <cstring>
 #include "vendedoresArchivo.h"
 
+/*void Mayuscula(char* cadena){
+    int longitud = strlen(cadena);
+
+    for(int X=0; X<longitud; X++){
+        cadena[X] = toupper(cadena[X]);
+    }
+
+}*/
+
 
 vendedoresArchivo::vendedoresArchivo(){
     _nombre = "vendedores.dat";
@@ -17,6 +26,8 @@ bool vendedoresArchivo::agregarRegistro(vendedor &registro){
     if(pFILE == nullptr){
         return false;
     }
+
+    registro.cargar();
 
     resultado = fwrite(&registro, sizeof(vendedor), 1, pFILE) == 1;
 

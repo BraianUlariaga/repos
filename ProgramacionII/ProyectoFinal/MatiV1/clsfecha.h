@@ -1,6 +1,4 @@
 #pragma once
-#include <chrono>
-#include <ctime>
 #include <string>
 
 bool esBisiesto(int anio);
@@ -23,6 +21,5 @@ public:
 
     std::string toString();
     void Cargar();
-    void fechaSistema();
 
 };

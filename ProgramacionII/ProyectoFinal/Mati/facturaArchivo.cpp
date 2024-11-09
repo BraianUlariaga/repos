@@ -14,8 +14,6 @@ bool facturaArchivo::agregarRegistro(DetalleFactura &registro){
         return false;
     }
 
-    registro.cargar();
-
     resultado = fwrite(&registro, sizeof(DetalleFactura), 1, pFILE) == 1;
 
     fclose(pFILE);
@@ -115,3 +113,4 @@ bool facturaArchivo::modificar(DetalleFactura &registro, int pos){
         return result;
     }
 }
+

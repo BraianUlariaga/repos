@@ -18,9 +18,6 @@ public:
     void historial_clientes();
     void vendedores_activos();
     void historial_vendedores();
-    void AgregarVendedor();
-    bool generarFactura(cliente &registroCliente, vendedor &registroVendedor, automovil &registroAuto, DetalleFactura &registroFactura);
-    void historialFacturas();
-    void bajaVendedor();
+    bool generarFactura(cliente &registroCliente, vendedor &registroVendedor, automovil &registroAuto, int posCliente, int posVendedor, int posAuto);
 
 };

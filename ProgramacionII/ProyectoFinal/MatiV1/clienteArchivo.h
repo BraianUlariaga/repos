@@ -15,3 +15,5 @@ public:
     bool modificar(cliente &registro, int pos);
 
 };
+
+

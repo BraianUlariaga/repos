@@ -1,13 +1,9 @@
-#include <iostream>
-#include <cstring>
-#include "vendedoresArchivo.h"
+#include "facturaArchivo.h"
 
-
-vendedoresArchivo::vendedoresArchivo(){
-    _nombre = "vendedores.dat";
+facturaArchivo::facturaArchivo(){
+    _nombre = "facturas.dat";
 }
-
-bool vendedoresArchivo::agregarRegistro(vendedor &registro){
+bool facturaArchivo::agregarRegistro(DetalleFactura &registro){
     FILE *pFILE;
     bool resultado;
 
@@ -18,30 +14,31 @@ bool vendedoresArchivo::agregarRegistro(vendedor &registro){
         return false;
     }
 
-    resultado = fwrite(&registro, sizeof(vendedor), 1, pFILE) == 1;
+    registro.cargar();
+
+    resultado = fwrite(&registro, sizeof(DetalleFactura), 1, pFILE) == 1;
 
     fclose(pFILE);
 
     return resultado;
 }
 
-vendedor vendedoresArchivo::listar(int pos){
+DetalleFactura facturaArchivo::listar(int pos){
     FILE *pFILE;
-    vendedor registro;
+    DetalleFactura registro;
 
     pFILE = fopen(_nombre.c_str(), "rb");
 
     if(pFILE == nullptr){
         return registro;
     }
-    fseek(pFILE, sizeof(registro)*pos, 0);
-    fread(&registro, sizeof(vendedor), 1, pFILE);
+    fseek(pFILE, sizeof(DetalleFactura)*pos, 0);
+    fread(&registro, sizeof(DetalleFactura), 1, pFILE);
 
     return registro;
-
 }
 
-int vendedoresArchivo::cantidadRegistros(){
+int facturaArchivo::cantidadRegistros(){
     FILE *pFILE;
     int cantidad, total;
 
@@ -54,11 +51,10 @@ int vendedoresArchivo::cantidadRegistros(){
     fseek(pFILE, 0, 2);
     cantidad = ftell(pFILE);
     fclose(pFILE);
-    return total = cantidad / sizeof(vendedor);
-
+    return total = cantidad / sizeof(DetalleFactura);
 }
 
-bool vendedoresArchivo::leerRegistros(vendedor registros[], int cantidad){
+bool facturaArchivo::leerRegistros(DetalleFactura registros[], int cantidad){
     FILE *pFILE;
     bool result;
 
@@ -70,18 +66,16 @@ bool vendedoresArchivo::leerRegistros(vendedor registros[], int cantidad){
 
     }
 
-    result = fread(registros, sizeof(vendedor), cantidad, pFILE) == cantidad;
+    result = fread(registros, sizeof(DetalleFactura), cantidad, pFILE) == cantidad;
 
     fclose(pFILE);
 
     return result;
-
-
 }
 
-int vendedoresArchivo::buscarRegistro(int legajo){
+int facturaArchivo::buscarRegistro(int IDVenta){
     FILE *pFILE;
-    vendedor registro;
+    DetalleFactura registro;
     int pos = 0;
 
 
@@ -91,21 +85,21 @@ int vendedoresArchivo::buscarRegistro(int legajo){
         return -1;
     }
 
-    while(fread(&registro, sizeof(vendedor), 1, pFILE) == 1){
-        if(registro.getlegajo() == legajo){
+    while(fread(&registro, sizeof(DetalleFactura), 1, pFILE) == 1){
+        if(registro.getIDVenta() == IDVenta){
             break;
         }
         pos++;
     }
     fclose(pFILE);
-    if(registro.getlegajo() == legajo){
+
+    if(registro.getIDVenta() == IDVenta){
         return pos;
     }
     else{return -2;}
-
 }
 
-bool vendedoresArchivo::modificar(vendedor &registro, int pos){
+bool facturaArchivo::modificar(DetalleFactura &registro, int pos){
     FILE *pFILE;
     bool result;
 
@@ -115,8 +109,8 @@ bool vendedoresArchivo::modificar(vendedor &registro, int pos){
         return false;
     }
     else{
-        fseek(pFILE, sizeof(vendedor)*pos, 0);
-        result = fwrite(&registro, sizeof(vendedor), 1, pFILE) == 1;
+        fseek(pFILE, sizeof(DetalleFactura)*pos, 0);
+        result = fwrite(&registro, sizeof(DetalleFactura), 1, pFILE) == 1;
         fclose(pFILE);
         return result;
     }
