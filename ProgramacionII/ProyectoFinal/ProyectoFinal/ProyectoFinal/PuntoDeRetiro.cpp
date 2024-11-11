@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "Validaciones.h"
 #include "PuntoDeRetiro.h"
-#include "ArchivoPuntoDeRetiro.h"
+#include "PuntoDeRetiroArchivo.h"
 #include <iostream>
 
 
@@ -32,7 +32,7 @@ void PuntoDeRetiro::CargarPuntoDeRetiro() {
 	std::string domicilio, localidad;
 	bool vigente;
 
-	ArchivoPuntoDeRetiro archivo;
+	PuntoDeRetiroArchivo archivo;
 	setIdPuntoRetiro(archivo.ObtenerUltimoId());
 
 	// Limpia el buffer de entrada para evitar problemas con getline()
@@ -79,3 +79,38 @@ void PuntoDeRetiro::BajaPuntoDeRetiro() {
 	setVigente(false);
 };
 
+
+void PuntoDeRetiro::ModificarPuntoDeRetiro() {
+	std::string domicilio, localidad;
+	bool vigente;
+
+	// Limpia el buffer de entrada para evitar problemas con getline()
+	//std::cin.ignore();
+
+	std::cout << "Ingrese calle y altura del punto de retiro." << std::endl;
+
+	getline(std::cin, domicilio);
+
+	if (Validaciones::ValidarStringVacio(domicilio))
+	{
+		std::cout << "El domicilio no puede estar vacio." << std::endl;
+	}
+	else
+	{
+		setDomicilio(domicilio);
+	}
+
+	std::cout << "Ingrese la localidad del punto de retiro." << std::endl;
+	getline(std::cin, localidad);
+
+	if (Validaciones::ValidarStringVacio(localidad))
+	{
+		std::cout << "la localidad no puede estar vacia." << std::endl;
+	}
+	else
+	{
+		setLocalidad(localidad);
+	}
+
+	setVigente(true);
+};

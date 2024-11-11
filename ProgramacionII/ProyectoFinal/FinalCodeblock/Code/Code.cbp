@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Code" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Code" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Code" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Auto.cpp" />
+		<Unit filename="Auto.h" />
+		<Unit filename="AutoArchivo.cpp" />
+		<Unit filename="AutoArchivo.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="ClienteArchivo.cpp" />
+		<Unit filename="ClienteArchivo.h" />
+		<Unit filename="DetalleFactura.cpp" />
+		<Unit filename="DetalleFactura.h" />
+		<Unit filename="FacturaArchivo.cpp" />
+		<Unit filename="FacturaArchivo.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="FormaDePago.cpp" />
+		<Unit filename="FormaDePago.h" />
+		<Unit filename="FormaDePagoArchivo.cpp" />
+		<Unit filename="FormaDePagoArchivo.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="PuntoDeRetiro.cpp" />
+		<Unit filename="PuntoDeRetiro.h" />
+		<Unit filename="PuntoDeRetiroArchivo.cpp" />
+		<Unit filename="PuntoDeRetiroArchivo.h" />
+		<Unit filename="SistemaGestion.cpp" />
+		<Unit filename="SistemaGestion.h" />
+		<Unit filename="Validaciones.cpp" />
+		<Unit filename="Validaciones.h" />
+		<Unit filename="Vendedor.cpp" />
+		<Unit filename="Vendedor.h" />
+		<Unit filename="VendedorArchivo.cpp" />
+		<Unit filename="VendedorArchivo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -2,8 +2,10 @@
 #include <iostream>
 #include <iomanip>  // Para usar std::setprecision
 #include "Cliente.h"
-#include "ArchivoPuntoDeRetiro.h"
-#include "ArchivoCliente.h"
+#include "PuntoDeRetiroArchivo.h"
+#include "ClienteArchivo.h"
+#include "FormaDePago.h"
+#include "FormaDePagoArchivo.h"
 
 
 int main()
@@ -18,31 +20,31 @@ int main()
     //std::cout <<  std::setprecision(3);
     //std::cout << num;
     
-        //Cargamos cliente
-        Cliente cliente1;
-        ArchivoCliente archivoCliente;
+        //***************************Cargamos cliente
+        ////Cliente cliente1;
+        ////ClienteArchivo archivoCliente;
 
-        cliente1.Cargar();
-        archivoCliente.GuardarCliente(cliente1);
+        ////cliente1.Cargar();
+        ////archivoCliente.GuardarCliente(cliente1);
        
 
-        int registros = archivoCliente.CantidadRegistros(); // Traemos la cantiad de registros para el for
+        ////int registros = archivoCliente.CantidadRegistros(); // Traemos la cantiad de registros para el for
 
-        for (int i = 0; i < registros; i++)
-        {
-            cliente1 = archivoCliente.LeerCliente(i);
-            cliente1.Mostrar();
-        }
-        
+        ////for (int i = 0; i < registros; i++)
+        ////{
+        ////    cliente1 = archivoCliente.LeerCliente(i);
+        ////    cliente1.Mostrar();
+        ////}
+        ////
 
-        int id;
-        std::cout << "Ingrese el ID del registro a modificar" << std::endl;
-        std::cin >> id;
-        archivoCliente.ModificarCliente(id);
+        ////int id;
+        ////std::cout << "Ingrese el ID del registro a modificar" << std::endl;
+        ////std::cin >> id;
+        ////archivoCliente.ModificarCliente(id);
 
-        /*Verificacion de que se dio de baja o se modifico */
-        
-        cliente1.Mostrar();
+        /////*Verificacion de que se dio de baja o se modifico */
+        ////
+        ////cliente1.Mostrar();
 
     /* PUNTO DE RETIRO */
 
@@ -85,5 +87,32 @@ int main()
     //      }
     //}
 
-    
+    /********************** Medio de pago **********************/
+
+    FormaDePago entidadPago;
+    FormaDePagoArchivo archivoPago;
+
+    //for (int i = 0; i < 3; i++)
+    //{
+
+
+    //entidadPago.CargarFormaDePago();
+
+    //archivoPago.GuardarFormaDePago(entidadPago);
+
+    //}
+    int cantidad = archivoPago.CantidadRegistros();
+
+    for (int i = 0; i < cantidad; i++)
+    {
+        entidadPago = archivoPago.ListarFormaDePago(i);
+        entidadPago.MostrarFormaDePago();
+    }
+
+    ////Modificacion de los registros 
+
+    int id;
+    std::cout << "Ingrese el ID del registro a modificar" << std::endl;
+    std::cin >> id;
+    archivoPago.ModificarFormaDePago(id);
 }

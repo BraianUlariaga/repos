@@ -1,5 +1,5 @@
 #include "Cliente.h"
-#include "ArchivoCliente.h"
+#include "ClienteArchivo.h"
 #include "Persona.h"
 #include "Validaciones.h"
 #include <iostream>
@@ -18,17 +18,17 @@ int Cliente::getIDCliente() { return _IdCliente ; };
 
 /*Metodos*/
 
-void Cliente::Cargar() {
+void Cliente::CargarCliente() {
 
-	ArchivoCliente archivo;
+	ClienteArchivo archivo;
 	setIDCliente(archivo.ObtenerUltimoId());
-	Persona::Cargar();
+	Persona::CargarPersona();
 
 };
 
-void Cliente::Mostrar()	{
+void Cliente::MostrarCliente()	{
 
 	std::cout << "Id: " << getIDCliente() << std::endl;
-	Persona::Mostrar();
+	Persona::MostrarPersona();
 };
 

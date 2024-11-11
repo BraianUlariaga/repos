@@ -1,2 +1,31 @@
-﻿  Persona.cpp
+﻿  ClienteArchivo.cpp
+  CabeceraFactura.cpp
+  Cliente.cpp
+  Auto.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\Auto.cpp(125,15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  FacturaArchivo.cpp
+  FormaDePagoArchivo.cpp
+  Persona.cpp
+  AutoArchivo.cpp
+  SistemaGestion.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\SistemaGestion.cpp(243,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Vendedor.cpp
+  DetalleFactura.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\DetalleFactura.cpp(113,27): warning C4101: 'Total': variable local sin referencia
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\DetalleFactura.cpp(170,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\DetalleFactura.cpp(174,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Fecha.cpp
+  FormaDePago.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\FormaDePago.cpp(53,35): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\FormaDePago.cpp(35,7): warning C4101: 'vigente': variable local sin referencia
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\FormaDePago.cpp(105,35): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\FormaDePago.cpp(87,7): warning C4101: 'vigente': variable local sin referencia
+  ProyectoFinal.cpp
+  PuntoDeRetiro.cpp
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\PuntoDeRetiro.cpp(33,7): warning C4101: 'vigente': variable local sin referencia
+C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\ProyectoFinal\PuntoDeRetiro.cpp(85,7): warning C4101: 'vigente': variable local sin referencia
+  PuntoDeRetiroArchivo.cpp
+  Validaciones.cpp
+  VendedorArchivo.cpp
+  Generando código...
   ProyectoFinal.vcxproj -> C:\Users\Braian\source\repos\ProgramacionII\ProyectoFinal\ProyectoFinal\x64\Debug\ProyectoFinal.exe

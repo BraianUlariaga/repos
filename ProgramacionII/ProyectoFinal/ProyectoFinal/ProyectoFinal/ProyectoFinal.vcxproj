@@ -127,33 +127,47 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ArchivoCliente.cpp" />
+    <ClCompile Include="ClienteArchivo.cpp" />
     <ClCompile Include="CabeceraFactura.cpp" />
     <ClCompile Include="Cliente.cpp" />
     <ClCompile Include="Auto.cpp" />
+    <ClCompile Include="FacturaArchivo.cpp" />
+    <ClCompile Include="FormaDePagoArchivo.cpp" />
     <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="AutoArchivo.cpp" />
+    <ClCompile Include="SistemaGestion.cpp" />
     <ClCompile Include="Vendedor.cpp" />
     <ClCompile Include="DetalleFactura.cpp" />
     <ClCompile Include="Fecha.cpp" />
     <ClCompile Include="FormaDePago.cpp" />
     <ClCompile Include="ProyectoFinal.cpp" />
     <ClCompile Include="PuntoDeRetiro.cpp" />
-    <ClCompile Include="ArchivoPuntoDeRetiro.cpp" />
+    <ClCompile Include="PuntoDeRetiroArchivo.cpp" />
     <ClCompile Include="Validaciones.cpp" />
+    <ClCompile Include="VendedorArchivo.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ArchivoCliente.h" />
+    <ClInclude Include="AutoArchivo.h" />
+    <ClInclude Include="ClienteArchivo.h" />
     <ClInclude Include="CabeceraFactura.h" />
     <ClInclude Include="Cliente.h" />
     <ClInclude Include="Auto.h" />
+    <ClInclude Include="FacturaArchivo.h" />
+    <ClInclude Include="FormaDePagoArchivo.h" />
     <ClInclude Include="Persona.h" />
+    <ClInclude Include="SistemaGestion.h" />
     <ClInclude Include="Vendedor.h" />
     <ClInclude Include="DetalleFactura.h" />
     <ClInclude Include="Fecha.h" />
     <ClInclude Include="FormaDePago.h" />
     <ClInclude Include="PuntoDeRetiro.h" />
-    <ClInclude Include="ArchivoPuntoDeRetiro.h" />
+    <ClInclude Include="PuntoDeRetiroArchivo.h" />
     <ClInclude Include="Validaciones.h" />
+    <ClInclude Include="VendedorArchivo.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

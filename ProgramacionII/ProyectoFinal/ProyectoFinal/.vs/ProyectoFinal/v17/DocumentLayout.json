@@ -3,91 +3,147 @@
   "WorkspaceRootPath": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ArchivoCliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\AutoArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ArchivoPuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\AutoArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ProyectoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ArchivoPuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Vendedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ArchivoCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DETALLEFACTURA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\DETALLEFACTURA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Validaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FormaDePago.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Fecha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Validaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FormaDePago.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DETALLEFACTURA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\DETALLEFACTURA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiroArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\SistemaGestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DETALLEFACTURA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\DETALLEFACTURA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\CabeceraFactura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\CabeceraFactura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\SistemaGestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FormaDePago.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ClienteArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\VendedorArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiroArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\ClienteArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FacturaArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FormaDePagoArchivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FormaDePagoArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\PuntoDeRetiro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\VendedorArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\FacturaArchivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07092AA9-E1D0-43EC-ADA1-788759902C01}|ProyectoFinal\\ProyectoFinal.vcxproj|solutionrelative:ProyectoFinal\\Vendedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
@@ -100,7 +156,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -108,274 +164,263 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Fecha.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Fecha.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.cpp",
+              "RelativeToolTip": "ProyectoFinal\\Fecha.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T21:53:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fecha.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Fecha.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h",
+              "RelativeToolTip": "ProyectoFinal\\Fecha.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T22:23:59.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validaciones.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Validaciones.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.cpp",
+              "RelativeToolTip": "ProyectoFinal\\Validaciones.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvzwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T22:55:44.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Cliente.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.h",
+              "RelativeToolTip": "ProyectoFinal\\Cliente.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T21:55:27.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProyectoFinal.cpp",
               "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.cpp",
               "RelativeDocumentMoniker": "ProyectoFinal\\ProyectoFinal.cpp",
               "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.cpp",
               "RelativeToolTip": "ProyectoFinal\\ProyectoFinal.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAnwG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-10T21:59:58.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArchivoPuntoDeRetiro.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\ArchivoPuntoDeRetiro.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.h",
-              "RelativeToolTip": "ProyectoFinal\\ArchivoPuntoDeRetiro.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-19T19:26:47.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArchivoPuntoDeRetiro.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\ArchivoPuntoDeRetiro.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoPuntoDeRetiro.cpp",
-              "RelativeToolTip": "ProyectoFinal\\ArchivoPuntoDeRetiro.cpp",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-19T19:26:20.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArchivoCliente.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\ArchivoCliente.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.cpp",
-              "RelativeToolTip": "ProyectoFinal\\ArchivoCliente.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T03:54:36.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Persona.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Persona.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp",
-              "RelativeToolTip": "ProyectoFinal\\Persona.cpp",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAowE4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T22:23:16.439Z",
+              "Title": "AutoArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\AutoArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\AutoArchivo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T13:59:09.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PuntoDeRetiro.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiro.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp",
-              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiro.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T16:45:48.175Z",
+              "Title": "Vendedor.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Vendedor.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.h",
+              "RelativeToolTip": "ProyectoFinal\\Vendedor.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T13:37:34.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Auto.cpp",
               "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.cpp",
               "RelativeDocumentMoniker": "ProyectoFinal\\Auto.cpp",
               "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.cpp",
               "RelativeToolTip": "ProyectoFinal\\Auto.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-21T22:16:46.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ArchivoCliente.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\ArchivoCliente.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ArchivoCliente.h",
-              "RelativeToolTip": "ProyectoFinal\\ArchivoCliente.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-29T03:47:42.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Persona.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Persona.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h",
-              "RelativeToolTip": "ProyectoFinal\\Persona.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T22:23:33.372Z"
+              "DocumentIndex": 1,
+              "Title": "AutoArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\AutoArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AutoArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\AutoArchivo.cpp",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:51:50.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Cliente.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Cliente.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp",
-              "RelativeToolTip": "ProyectoFinal\\Cliente.cpp",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowBgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T21:55:13.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Cliente.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.h",
-              "RelativeToolTip": "ProyectoFinal\\Cliente.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T21:55:27.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PuntoDeRetiro.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiro.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h",
-              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiro.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T16:45:32.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Validaciones.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Validaciones.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.cpp",
-              "RelativeToolTip": "ProyectoFinal\\Validaciones.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T22:55:44.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DetalleFactura.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\DetalleFactura.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.cpp",
-              "RelativeToolTip": "ProyectoFinal\\DetalleFactura.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T22:07:07.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FormaDePago.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\FormaDePago.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp",
-              "RelativeToolTip": "ProyectoFinal\\FormaDePago.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T22:17:05.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Fecha.cpp",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.cpp",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Fecha.cpp",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.cpp",
-              "RelativeToolTip": "ProyectoFinal\\Fecha.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T21:53:56.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Validaciones.h",
               "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.h",
               "RelativeDocumentMoniker": "ProyectoFinal\\Validaciones.h",
               "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Validaciones.h",
               "RelativeToolTip": "ProyectoFinal\\Validaciones.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T22:14:29.79Z"
+              "WhenOpened": "2024-10-21T22:14:29.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
+              "Title": "FormaDePago.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\FormaDePago.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.cpp",
+              "RelativeToolTip": "ProyectoFinal\\FormaDePago.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T22:17:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleFactura.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\DetalleFactura.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.cpp",
+              "RelativeToolTip": "ProyectoFinal\\DetalleFactura.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T22:07:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PuntoDeRetiroArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiroArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiroArchivo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T19:26:20.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SistemaGestion.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\SistemaGestion.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.cpp",
+              "RelativeToolTip": "ProyectoFinal\\SistemaGestion.cpp",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAiwG8BAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T01:02:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DetalleFactura.h",
               "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.h",
               "RelativeDocumentMoniker": "ProyectoFinal\\DetalleFactura.h",
               "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\DetalleFactura.h",
               "RelativeToolTip": "ProyectoFinal\\DetalleFactura.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T22:07:32.063Z"
+              "WhenOpened": "2024-10-21T22:07:32.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CabeceraFactura.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\CabeceraFactura.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.h",
+              "RelativeToolTip": "ProyectoFinal\\CabeceraFactura.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T01:42:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CabeceraFactura.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\CabeceraFactura.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\CabeceraFactura.cpp",
+              "RelativeToolTip": "ProyectoFinal\\CabeceraFactura.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T14:13:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SistemaGestion.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\SistemaGestion.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\SistemaGestion.h",
+              "RelativeToolTip": "ProyectoFinal\\SistemaGestion.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T01:02:00.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Fecha.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Fecha.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Fecha.h",
-              "RelativeToolTip": "ProyectoFinal\\Fecha.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Title": "PuntoDeRetiro.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiro.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.h",
+              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiro.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T22:23:59.536Z"
+              "WhenOpened": "2024-10-15T16:45:32.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Auto.h",
-              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Auto.h",
-              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h",
-              "RelativeToolTip": "ProyectoFinal\\Auto.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "Persona.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Persona.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.h",
+              "RelativeToolTip": "ProyectoFinal\\Persona.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T22:23:28.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "utility",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
-              "ViewState": "AQIAAPICAAAAAAAAAAAhwPkCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T20:09:38.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "xmemory",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
-              "ViewState": "AQIAAFYFAAAAAAAAAAAhwGMFAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T20:05:01.9Z"
+              "WhenOpened": "2024-10-17T22:23:33.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -385,9 +430,218 @@
               "RelativeDocumentMoniker": "ProyectoFinal\\FormaDePago.h",
               "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePago.h",
               "RelativeToolTip": "ProyectoFinal\\FormaDePago.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T14:09:15.596Z"
+              "WhenOpened": "2024-10-15T14:09:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Auto.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Auto.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Auto.h",
+              "RelativeToolTip": "ProyectoFinal\\Auto.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T22:23:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ClienteArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\ClienteArchivo.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAiwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:54:36.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VendedorArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\VendedorArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\VendedorArchivo.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T13:36:32.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PuntoDeRetiroArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiroArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiroArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiroArchivo.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-19T19:26:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClienteArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ClienteArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ClienteArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\ClienteArchivo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T03:47:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FacturaArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\FacturaArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\FacturaArchivo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T13:47:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormaDePagoArchivo.h",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.h",
+              "RelativeDocumentMoniker": "ProyectoFinal\\FormaDePagoArchivo.h",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.h",
+              "RelativeToolTip": "ProyectoFinal\\FormaDePagoArchivo.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T14:46:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormaDePagoArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\FormaDePagoArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FormaDePagoArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\FormaDePagoArchivo.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAADgv3MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T14:46:58.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PuntoDeRetiro.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\PuntoDeRetiro.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\PuntoDeRetiro.cpp",
+              "RelativeToolTip": "ProyectoFinal\\PuntoDeRetiro.cpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T16:45:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ViewState": "AQIAAPACAAAAAAAAAAAnwPkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T20:09:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VendedorArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\VendedorArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\VendedorArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\VendedorArchivo.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:36:47.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Persona.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Persona.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Persona.cpp",
+              "RelativeToolTip": "ProyectoFinal\\Persona.cpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAADgv0UAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T22:23:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cliente.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Cliente.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Cliente.cpp",
+              "RelativeToolTip": "ProyectoFinal\\Cliente.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T21:55:13.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FacturaArchivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\FacturaArchivo.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\FacturaArchivo.cpp",
+              "RelativeToolTip": "ProyectoFinal\\FacturaArchivo.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAHIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:47:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Vendedor.cpp",
+              "DocumentMoniker": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Vendedor.cpp",
+              "ToolTip": "C:\\Users\\Braian\\source\\repos\\ProgramacionII\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Vendedor.cpp",
+              "RelativeToolTip": "ProyectoFinal\\Vendedor.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:27:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ViewState": "AQIAAFYFAAAAAAAAAAAhwGMFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T20:05:01.9Z",
+              "EditorCaption": ""
             }
           ]
         }

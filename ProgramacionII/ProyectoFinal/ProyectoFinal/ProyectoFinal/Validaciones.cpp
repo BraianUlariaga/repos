@@ -43,3 +43,19 @@ bool Validaciones::ValidarMail(const std::string& mail) {
 
 	return false;
 }
+//
+//void Validaciones::Mayuscula( char* cadena) {
+//	int longitud = strlen(cadena);
+//
+//	for (int X = 0; X < longitud; X++) {
+//		cadena[X] = toupper(cadena[X]);
+//	}
+//
+//}
+
+bool Validaciones::Bisiesto(int anio) {
+	if ((anio % 4 == 0 && anio % 100 != 0) || (anio % 400 == 0)) {
+		return 1;
+	}
+	else { return 0; }
+}

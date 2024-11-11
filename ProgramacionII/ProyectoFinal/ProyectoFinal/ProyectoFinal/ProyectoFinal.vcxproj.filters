@@ -54,11 +54,26 @@
     <ClCompile Include="CabeceraFactura.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
-    <ClCompile Include="ArchivoPuntoDeRetiro.cpp">
+    <ClCompile Include="PuntoDeRetiroArchivo.cpp">
       <Filter>Archivos de recursos\Archivos</Filter>
     </ClCompile>
-    <ClCompile Include="ArchivoCliente.cpp">
+    <ClCompile Include="ClienteArchivo.cpp">
       <Filter>Archivos de recursos\Archivos</Filter>
+    </ClCompile>
+    <ClCompile Include="VendedorArchivo.cpp">
+      <Filter>Archivos de recursos\Archivos</Filter>
+    </ClCompile>
+    <ClCompile Include="FacturaArchivo.cpp">
+      <Filter>Archivos de recursos\Archivos</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoArchivo.cpp">
+      <Filter>Archivos de recursos\Archivos</Filter>
+    </ClCompile>
+    <ClCompile Include="FormaDePagoArchivo.cpp">
+      <Filter>Archivos de recursos\Archivos</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaGestion.cpp">
+      <Filter>Archivos de recursos</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -92,11 +107,30 @@
     <ClInclude Include="CabeceraFactura.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="ArchivoPuntoDeRetiro.h">
+    <ClInclude Include="PuntoDeRetiroArchivo.h">
       <Filter>Archivos de encabezado\Archivos</Filter>
     </ClInclude>
-    <ClInclude Include="ArchivoCliente.h">
+    <ClInclude Include="ClienteArchivo.h">
       <Filter>Archivos de encabezado\Archivos</Filter>
     </ClInclude>
+    <ClInclude Include="VendedorArchivo.h">
+      <Filter>Archivos de encabezado\Archivos</Filter>
+    </ClInclude>
+    <ClInclude Include="FacturaArchivo.h">
+      <Filter>Archivos de encabezado\Archivos</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoArchivo.h">
+      <Filter>Archivos de encabezado\Archivos</Filter>
+    </ClInclude>
+    <ClInclude Include="FormaDePagoArchivo.h">
+      <Filter>Archivos de encabezado\Archivos</Filter>
+    </ClInclude>
+    <ClInclude Include="SistemaGestion.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
 </Project>

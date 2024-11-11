@@ -1,11 +1,19 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include "FormaDePago.h"
 #include "Validaciones.h"
 #include <iostream>
+#include "FormaDePagoArchivo.h"
 
 
 /*Setters*/
 void FormaDePago::setIdPago(int id) { _IdPago = id; };
-void FormaDePago::setDescripcion(std::string descripcion) { _Descripcion = descripcion; };
+void FormaDePago::setDescripcion(std::string descripcion) {
+	if (descripcion.size()<100)
+	{
+	strcpy(_Descripcion, descripcion.c_str());
+
+	}
+};
 void FormaDePago::setTasaInteres(float tasaInteres) { _TasaInteres = tasaInteres; };
 void FormaDePago::setVigente(bool vigente) { _Vigente = vigente; };
 
@@ -17,22 +25,26 @@ bool FormaDePago::getVigente() { return _Vigente; };
 
 /*Metodos*/
 
-void FormaDePago::CargarMedioPago() {
+void FormaDePago::CargarFormaDePago() {
 
 	// int id; //Ver como hacer para que sea autoincremental
+	FormaDePagoArchivo archivo;
+	setIdPago(archivo.ObtenerUltimoId());
 	std::string descripcion;
 	float interes;
 	bool vigente;
 
 	std::cout << "Ingrese la descripcion del medio de pago." << std::endl;
-	std::cin >> descripcion;
+	std::cin.ignore();
+	std::getline(std::cin, descripcion);
 
 	if (Validaciones::ValidarStringVacio(descripcion))
 	{
 		std::cout << "La descripcion del medio de pago no puede estar vacio." << std::endl;
 	}
 	else
-	{
+	{	
+		
 		setDescripcion(descripcion);
 	}
 
@@ -51,7 +63,7 @@ void FormaDePago::CargarMedioPago() {
 
 };
 
-void FormaDePago::MostrarMedioPago() {
+void FormaDePago::MostrarFormaDePago() {
 
 	std::cout << "Id de medio de pago: " << getIdPago() << std::endl;
 	std::cout << "Descripcion: " << getDescripcion() << std::endl;
@@ -60,3 +72,45 @@ void FormaDePago::MostrarMedioPago() {
 	std::cout << "Vigencia: " << getVigente() << std::endl;
 
 }
+
+
+void FormaDePago::BajaFormaDePago() {
+
+	setVigente(false);
+};
+
+
+void FormaDePago::ModificarFormaDePago() {
+
+	std::string descripcion;
+	float interes;
+	bool vigente;
+
+	std::cout << "Ingrese la descripcion del medio de pago." << std::endl;
+	std::cin.ignore();
+	std::getline(std::cin, descripcion);
+
+	if (Validaciones::ValidarStringVacio(descripcion))
+	{
+		std::cout << "La descripcion del medio de pago no puede estar vacio." << std::endl;
+	}
+	else
+	{
+
+		setDescripcion(descripcion);
+	}
+
+	std::cout << "Ingrese la tasa de interes del medio de pago." << std::endl;
+	std::cin >> interes;
+	if (Validaciones::ValidaPositivo(interes))
+	{
+		std::cout << "La tasa de interes no puede ser menor a 0." << std::endl;
+	}
+	else
+	{
+		setTasaInteres(interes);
+	}
+
+	setVigente(true);
+
+};

@@ -65,7 +65,7 @@ std::string Persona::getEmail()const {
 	return _Email;
 }
 //metodos
-void Persona::Cargar() {
+void Persona::CargarPersona() {
 	std::string nombre, apellido, telefono, email;
 	int dni;
 	Fecha nacimiento;
@@ -114,7 +114,7 @@ void Persona::Cargar() {
 
 
 	std::cout << "FECHA DE NACIMIENTO: ";
-	nacimiento.Cargar();
+	nacimiento.CargarFecha();
 	setFechaNacimiento(nacimiento);
 	std::cin.ignore();
 
@@ -145,7 +145,7 @@ void Persona::Cargar() {
 		std::cout << "Mail invalido" << std::endl;
 	}
 }
-void Persona::Mostrar()const {
+void Persona::MostrarPersona()const {
 	std::cout << "NOMBRE: " << getNombre() << std::endl;
 	std::cout << "APELLIDO: " << getApellido() << std::endl;
 	std::cout << "DNI: " << getDNI() << std::endl;
